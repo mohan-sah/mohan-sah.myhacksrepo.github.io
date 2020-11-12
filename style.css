@@ -1,0 +1,63 @@
+body{
+    width: 100%;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* .parallax{
+    width: 100%;
+    height: 200vh;
+    background: url("friends.jpg");
+    background-size: cover;
+    position: relative;
+    display:inline-block;
+    
+}
+.content-div{
+    width: 100%;
+    height: 200vh;
+    
+}
+.headline{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 350px;
+    color: rgb(9, 24, 243);
+    position: absolute;
+    top:40vh;
+    width: 100%;
+    text-align:center;
+    text-shadow: 1px 1px 10px rgba(0,0,0,0.8);
+    
+}
+.mask{
+    mask:url("mask1.png");
+    mask-size: cover;
+    -webkit-mask: url("mask1.png");
+    -webkit-mask-size:cover;
+    -webkit-mask-composite: xor;
+    width:100%;
+    height:100%;
+     */
+div{
+    width: 100vw;
+    background-size: 100%;
+    height: 100vh;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-image: url("friends.png");
+
+}
+h3{
+    color: rgb(212, 48, 48);
+    letter-spacing: 10px;
+    font-size: 15vw;
+    margin:0;
+    text-align: center;
+    padding-top: lem;
+    outline:none;
+    -webkit-mask1:url("mask1.png") center top no-repeat;
+    -webkit-mask1-size:100%;
+}
+
+}
+img[usemap], map area{
+    outline: none;
