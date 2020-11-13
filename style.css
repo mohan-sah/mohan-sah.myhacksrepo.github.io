@@ -56,8 +56,9 @@ h3{
     outline:none;
     -webkit-mask1:url("mask1.png") center top no-repeat;
     -webkit-mask1-size:100%;
+    position: fixed;
 }
 
-}
+
 img[usemap], map area{
-    outline: none;
+    outline: none;}
